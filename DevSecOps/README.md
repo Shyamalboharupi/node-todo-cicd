@@ -11,7 +11,7 @@
 -  SonarQube
 -  OWASP
 -  Trivy 
-
+#
 #
 
 ## Pre-requisites to implement this project:
